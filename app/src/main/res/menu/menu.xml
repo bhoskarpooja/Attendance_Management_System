@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/add"
+
+        android:title="Add Marks"
+        app:showAsAction="never"
+
+        />
+    <item
+        android:id="@+id/phistory"
+
+        android:title="Add Student"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/attend"
+
+        android:title="Show Student"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/syllabus"
+
+        android:title="Add syllabus"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/timetable"
+
+        android:title="Add TimeTable"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/fee"
+
+        android:title="Fee Remainder"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/event"
+
+        android:title="Send Event"
+        app:showAsAction="never"/>
+
+
+
+
+</menu>
